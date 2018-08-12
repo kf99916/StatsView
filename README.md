@@ -52,7 +52,7 @@ I am always curious who is using my projects :)
 
 ## Demo
 
-StatsViewDemo is a simple demo app which browse the Apple website with StatsView.
+StatsViewDemo is a simple demo app using StatsView.
 
 ## Author
 
