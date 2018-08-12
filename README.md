@@ -36,8 +36,8 @@ import StatsView
 
 A veiw to show the statistics
 
-`var title: NSAttributedString?` the title
-`var titleDescription: NSAttributedString?` the description for the title
+`var title: NSAttributedString?` the title   
+`var titleDescription: NSAttributedString?` the description for the title    
 `var titleDescriptionAlignment: NSTextAlignment` configure the alignment of the description label related with the title label (default `NSTextAlignment.center`)
 
 ## Apps using StatsView
