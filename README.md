@@ -1,6 +1,6 @@
 # StatsView
 
-A simple stats view to build up a simple dashboard in app
+A simple stats view to build up a simple dashboard in app. A StatsView makes implementation of statistics UI easy.
 
 [![CocoaPods](https://img.shields.io/cocoapods/dt/StatsView.svg)](https://cocoapods.org/pods/StatsView)
 [![GitHub stars](https://img.shields.io/github/stars/kf99916/StatsView.svg)](https://github.com/kf99916/StatsView/stargazers)
