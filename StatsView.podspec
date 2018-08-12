@@ -24,7 +24,7 @@ Pod::Spec.new do |s|
   #   * Try to keep it short, snappy and to the point.
   #   * Write the description between the DESC delimiters below.
   #   * Finally, don't worry about the indent, CocoaPods strips it!
-  s.description  = "A simple stats view to build up a simple dashboard in app"
+  s.description  = "A simple stats view to build up a simple dashboard in app. A StatsView makes implementation of statistics UI easy"
 
   s.homepage     = "https://github.com/kf99916/StatsView"
   s.screenshots  = "https://raw.githubusercontent.com/kf99916/StatsView/master/screenshots/StatsView.png"
@@ -131,5 +131,7 @@ Pod::Spec.new do |s|
 
   # s.xcconfig = { "HEADER_SEARCH_PATHS" => "$(SDKROOT)/usr/include/libxml2" }
   # s.dependency "JSONKit", "~> 1.4"
+
+  s.swift_version = "4.0"
 
 end
