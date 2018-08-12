@@ -9,7 +9,7 @@ A simple stats view to build up a simple dashboard in app
 [![Platform](https://img.shields.io/cocoapods/p/StatsView.svg)](https://github.com/kf99916/StatsView)
 [![GitHub license](https://img.shields.io/github/license/kf99916/StatsView.svg)](https://github.com/kf99916/StatsView/blob/master/LICENSE)
 
-![StatsView](/screenshots/StatsView.png 'StatsView') ![StatsView](/screenshots/StatsView.png 'StatsView')
+![StatsView](/screenshots/StatsView.png 'StatsView') 
 
 ## Requirements
 
