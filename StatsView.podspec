@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "StatsView"
-  s.version      = "1.0.0"
+  s.version      = "1.1.0"
   s.summary      = "A simple stats view to build up a simple dashboard in app"
 
   # This description is used to generate tags and improve search results.
@@ -131,7 +131,4 @@ Pod::Spec.new do |s|
 
   # s.xcconfig = { "HEADER_SEARCH_PATHS" => "$(SDKROOT)/usr/include/libxml2" }
   # s.dependency "JSONKit", "~> 1.4"
-
-  s.swift_version = "4.0"
-
 end
