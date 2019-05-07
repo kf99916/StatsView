@@ -14,17 +14,18 @@
 		AA74F0EB211FC07F003755C0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AA74F0EA211FC07F003755C0 /* Assets.xcassets */; };
 		AA74F0EE211FC07F003755C0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AA74F0EC211FC07F003755C0 /* LaunchScreen.storyboard */; };
 		AA74F0F4211FC094003755C0 /* StatsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA74F0F3211FC094003755C0 /* StatsView.swift */; };
-		AA74F0F6211FC9CF003755C0 /* StatsView.framework in CopyFiles */ = {isa = PBXBuildFile; fileRef = AA74F0D2211FC03F003755C0 /* StatsView.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		AAC9CEF82281E1C70090580A /* StatsView.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AA74F0D2211FC03F003755C0 /* StatsView.framework */; };
+		AAC9CEFA2281E1F00090580A /* StatsView.framework in CopyFiles */ = {isa = PBXBuildFile; fileRef = AA74F0D2211FC03F003755C0 /* StatsView.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
-		AA74F0F5211FC9C0003755C0 /* CopyFiles */ = {
+		AAC9CEF92281E1E80090580A /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
 			buildActionMask = 2147483647;
 			dstPath = "";
 			dstSubfolderSpec = 10;
 			files = (
-				AA74F0F6211FC9CF003755C0 /* StatsView.framework in CopyFiles */,
+				AAC9CEFA2281E1F00090580A /* StatsView.framework in CopyFiles */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -56,6 +57,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AAC9CEF82281E1C70090580A /* StatsView.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -142,7 +144,7 @@
 				AA74F0DD211FC07C003755C0 /* Sources */,
 				AA74F0DE211FC07C003755C0 /* Frameworks */,
 				AA74F0DF211FC07C003755C0 /* Resources */,
-				AA74F0F5211FC9C0003755C0 /* CopyFiles */,
+				AAC9CEF92281E1E80090580A /* CopyFiles */,
 			);
 			buildRules = (
 			);
