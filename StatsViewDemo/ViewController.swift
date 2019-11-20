@@ -28,7 +28,7 @@ class ViewController: UIViewController {
         setUpStatsView(statsView1InRow3, titles: [("99,916", "")], description: "MAU", titleColor: .red)
         setUpStatsView(statsView2InRow3, titles: [("819", "")], description: "DAU", titleColor: .red)
         setUpStatsView(statsView1InRow4, titles: [("916,819", "m")], description: "Distance", titleDescriptionColor: .brown, titleDescriptionAlignment: .right)
-        setUpStatsView(statsView2InRow4, titles: [("819,916", "m")], description: "Alitutude", titleDescriptionColor: .brown, titleDescriptionAlignment: .right)
+        setUpStatsView(statsView2InRow4, titles: [("819,916", "m")], description: "Ascent Altitude", titleDescriptionColor: .brown, titleDescriptionAlignment: .right)
         setUpStatsView(statsView3InRow4, titles: [("9.16819", "km/hr")], description: "Speed", titleDescriptionColor: .brown, titleDescriptionAlignment: .right)
     }
 
