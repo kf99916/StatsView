@@ -29,14 +29,6 @@ A simple stats view to build up a simple dashboard in app. A StatsView makes imp
 
 ## Installation
 
-### CocoaPods
-
-[CocoaPods](https://cocoapods.org) is a dependency manager for Cocoa projects. For usage and installation instructions, visit their website. To integrate StatsView into your Xcode project using CocoaPods, specify it in your `Podfile`:
-
-```ruby
-pod 'StatsView'
-```
-
 ### Swift Package Manager
 
 The [Swift Package Manager](https://swift.org/package-manager/) is a tool for automating the distribution of Swift code and is integrated into the `swift` compiler.
@@ -47,6 +39,14 @@ Once you have your Swift package set up, adding StatsView as a dependency is as 
 dependencies: [
     .package(url: "https://github.com/kf99916/StatsView.git")
 ]
+```
+
+### CocoaPods
+
+[CocoaPods](https://cocoapods.org) is a dependency manager for Cocoa projects. For usage and installation instructions, visit their website. To integrate StatsView into your Xcode project using CocoaPods, specify it in your `Podfile`:
+
+```ruby
+pod 'StatsView'
 ```
 
 ## Usage
