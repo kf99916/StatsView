@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "StatsView"
-  s.version      = "1.2.0"
+  s.version      = "1.3.0"
   s.summary      = "A simple stats view to build up a simple dashboard in app"
 
   # This description is used to generate tags and improve search results.

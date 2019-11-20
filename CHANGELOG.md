@@ -1,5 +1,9 @@
 # Changelog
 
+## Version 1.3.0
+
+Support Swift Package Manager
+
 ## Version 1.2.0
 
 Support Swift v5
